@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043515732452",
+    "project_id": "where-in-vit-2497e",
+    "storage_bucket": "where-in-vit-2497e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043515732452:android:5c30188ef7ff9f4f4117f1",
+        "android_client_info": {
+          "package_name": "com.example.where_in_vit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043515732452-7ch86pukbtq27auvo2epesthftgs50jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9-esDBM9g_gHtgxPvyQFT8t3kmbpzEwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043515732452-7ch86pukbtq27auvo2epesthftgs50jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
